@@ -25,18 +25,20 @@ Next steps:
 
 ---
 
-### Day 1.5: (Coming soon)
+### Day 1.5: 
 
 Plan:
-- Write Python script to call OpenAI API
-- Send a simple prompt and print the response
+- Write Python script to call OpenAI API (DONE)
+- Send a simple prompt and print the response (DONE AND WORKS)
 
 ---
 
 Notes:
 - Its not going to be easy, but the journey will be fun 
 - Commit at least once per week (hopefully or more)
-- Document everything I learn
+
+Next steps:
+- Learn and build a functional API automation
 
 ---
 
