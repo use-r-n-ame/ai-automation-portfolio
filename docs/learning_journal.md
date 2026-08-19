@@ -42,4 +42,13 @@ Next steps:
 
 ---
 
+### Day 2: 
+
+Plan: 
+- Understand the process of the summeriser (DONE)
+- Work on email summeriser
+
+Next steps:
+- Figure out how to add a csv file and have gemini summerise it
+
 Started: August 2026
